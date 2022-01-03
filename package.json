@@ -1,0 +1,26 @@
+{
+  "name": "test-with-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zehan12/test-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zehan12/test-with-jest/issues"
+  },
+  "homepage": "https://github.com/zehan12/test-with-jest#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "gitignore": "^0.7.0"
+  }
+}
